@@ -6,7 +6,7 @@
 
 I am Mohammad Jannatul Nayeem. A Programmer From Bangladesh. I love to write code and keen to  learn new programming Technologies. Happy Coding.
 
-Skills:  JAVA /HTML / CSS /JS 
+Skills:  JAVA /HTML / CSS / JS / PHP
 
 - 🔭 I’m currently working on Youtube. 
 - 🌱 I’m currently learning JavaScript 
