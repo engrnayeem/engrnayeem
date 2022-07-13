@@ -1,8 +1,6 @@
-![Programmer](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/288863436_581135543704994_6974785474603472504_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ow_AnP0juVUAX_CJlXy&_nc_ht=scontent.fdac27-2.fna&oh=00_AT8WjF7TuVt0TU1YmCtZyGFzfTrT1fQH6JjYfh_-IAiSBw&oe=62D3DD06)
-
 ### Hi there 👋, I am Mohammad Jannatul Nayeem
 #### Programmer
-
+![Programmer](https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/288863436_581135543704994_6974785474603472504_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ow_AnP0juVUAX_CJlXy&_nc_ht=scontent.fdac27-2.fna&oh=00_AT8WjF7TuVt0TU1YmCtZyGFzfTrT1fQH6JjYfh_-IAiSBw&oe=62D3DD06)
 
 I am Mohammad Jannatul Nayeem. A Programmer From Bangladesh. I love to write code and keen to  learn new programming Technologies. Happy Coding.
 
