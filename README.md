@@ -12,7 +12,7 @@ Skills:  JAVA /HTML / CSS / JS / PHP
 - 👯 I’m looking to collaborate on github. 
 - 🤔 I’m looking for help with Programming 
 - 💬 Ask me about Programming. 
-- 📫 How to reach me: mj.nayeembitm@gmail.com 
+- 📫 How to reach me: engr.mohammadjannatulnayeem@gmail.com
 - 😄 Pronouns: Happy Coding. 
 - ⚡ Fun fact: Happy  Coding. 
 
